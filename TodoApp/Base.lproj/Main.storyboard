@@ -41,6 +41,10 @@
                                 </tableViewCellContentView>
                             </tableViewCell>
                         </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="BYZ-38-t0r" id="nLR-em-lDP"/>
+                            <outlet property="delegate" destination="BYZ-38-t0r" id="J3C-XI-KhT"/>
+                        </connections>
                     </tableView>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
