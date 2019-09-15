@@ -67,12 +67,3 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
-Pods/Pods.xcodeproj/xcshareddata/xcschemes/AFNetworking.xcscheme
-Pods/Pods.xcodeproj/xcshareddata/xcschemes/AMPopTip.xcscheme
-Pods/Pods.xcodeproj/xcshareddata/xcschemes/MGSwipeTableCell.xcscheme
-Pods/Pods.xcodeproj/xcshareddata/xcschemes/NYSegmentedControl.xcscheme
-Pods/Pods.xcodeproj/xcshareddata/xcschemes/ObjectiveLuhn.xcscheme
-Pods/Pods.xcodeproj/xcshareddata/xcschemes/SHSPhoneComponent.xcscheme
-Pods/Pods.xcodeproj/xcshareddata/xcschemes/SocketRocket.xcscheme
-Pods/Pods.xcodeproj/xcshareddata/xcschemes/SSZipArchive.xcscheme
-Pods/Pods.xcodeproj/xcshareddata/xcschemes/UIImageView-Letters.xcscheme
